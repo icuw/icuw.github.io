@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-02-29T10:43:29.523Z</updated>
+  <updated>2020-03-11T04:38:21.311Z</updated>
   <id>/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>沟通的艺术（1）</title>
-    <link href="/2020/02/29/%E6%B2%9F%E9%80%9A%E7%9A%84%E8%89%BA%E6%9C%AF%EF%BC%881%EF%BC%89/"/>
-    <id>/2020/02/29/沟通的艺术（1）/</id>
-    <published>2020-02-29T10:40:49.172Z</published>
-    <updated>2020-02-29T10:43:29.523Z</updated>
+    <title>hello world</title>
+    <link href="/2020/03/11/hello-world/"/>
+    <id>/2020/03/11/hello-world/</id>
+    <published>2020-03-11T04:36:05.000Z</published>
+    <updated>2020-03-11T04:38:21.311Z</updated>
     
     <summary type="html">
     
@@ -29,33 +29,13 @@
       
         
         
-          &lt;h2 id=&quot;说话，要坚持事实性描述&quot;&gt;&lt;a href=&quot;#说话，要坚持事实性描述&quot; class=&quot;headerlink&quot;
+          &lt;a href=&quot;https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/comment.jpg&quot; data-fancybox=&quot;images&quot; data-caption=&quot;sakura&quot; target=&quot;_blank&quot;
         
       
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2020/02/29/hello-world/"/>
-    <id>/2020/02/29/hello-world/</id>
-    <published>2020-02-29T02:25:17.341Z</published>
-    <updated>2020-02-29T10:37:11.221Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
   </entry>
