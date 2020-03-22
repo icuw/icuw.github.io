@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-03-11T14:27:01.861Z</updated>
+  <updated>2020-03-22T00:49:00.431Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>活在当下</title>
+    <link href="/2020/03/22/%E6%B4%BB%E5%9C%A8%E5%BD%93%E4%B8%8B/"/>
+    <id>/2020/03/22/活在当下/</id>
+    <published>2020-03-22T00:36:20.000Z</published>
+    <updated>2020-03-22T00:49:00.431Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;活在当下&quot;&gt;&lt;a href=&quot;#活在当下&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="随想" scheme="/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Markdown语法</title>
