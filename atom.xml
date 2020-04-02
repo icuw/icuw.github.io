@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-03-27T12:14:24.411Z</updated>
+  <updated>2020-04-02T08:14:37.230Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>reclone挂载onedrive到windows</title>
+    <link href="/2020/04/02/reclone/"/>
+    <id>/2020/04/02/reclone/</id>
+    <published>2020-04-02T08:09:46.000Z</published>
+    <updated>2020-04-02T08:14:37.230Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Rclone&quot;&gt;&lt;a href=&quot;#Rclone&quot; class=&quot;headerlink&quot; title=&quot;Rclone&quot;&gt;&lt;/a&gt;Rclone&lt;/h1&gt;&lt;p&gt;1、先去官网下载Windows版本&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>自己想要什么，只有自己知道</title>
